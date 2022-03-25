@@ -16,9 +16,10 @@ Utilize Kaggle data sets for Data Analysis
             * Decision tree
             * Naive Bayes Classification
             * Random forest
+            * Extra Tree Classifier
             * XGBoost
-            * LightGBM
-            * KNN
+            * KNN / KNN Cluster
+        * DL
 * **London bike sharing dataset**  
 ( Historical data for bike sharing in London 'Powered by TfL Open Data' )
     * London.ipynb
