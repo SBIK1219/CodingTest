@@ -3,6 +3,11 @@
 Utilize Kaggle data sets for Data Analysis
 
 -----------
+* **Breast Cancer Wisconsin (Diagnostic) Data Set**  
+(Predict whether the cancer is benign or malignant)
+    * Breast_Cancer_Wisconsin.ipynb
+        * Preprocessing
+        * EDA
 * **Iris Species**  
 ( Classify iris plants into three species in this classic dataset )
     * iris.ipynb
