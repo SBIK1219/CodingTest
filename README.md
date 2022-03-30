@@ -8,6 +8,9 @@ Utilize Kaggle data sets for Data Analysis
     * Breast_Cancer_Wisconsin.ipynb
         * Preprocessing
         * EDA
+    * Breast_Cancer_Wisconsin_ML.ipynb
+        * Preprocessing
+        * ML
 * **Iris Species**  
 ( Classify iris plants into three species in this classic dataset )
     * iris.ipynb
