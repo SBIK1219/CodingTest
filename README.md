@@ -1,6 +1,6 @@
 # Kaggle_Practice
 
-Utilize Kaggle data sets for Data Analysis
+Data analysis using Kaggle data set
 
 -----------
 * **Breast Cancer Wisconsin (Diagnostic) Data Set**  
@@ -13,6 +13,8 @@ Utilize Kaggle data sets for Data Analysis
         * ML
             * Random forest
             * SVM
+    * Breast_Cancer_Wisconsin_ML2.ipynb  
+    (Machine Learning in a Different Way)
 * **Iris Species**  
 ( Classify iris plants into three species in this classic dataset )
     * iris.ipynb
