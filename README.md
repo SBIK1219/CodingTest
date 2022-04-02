@@ -15,6 +15,12 @@ Data analysis using Kaggle data set
             * SVM
     * Breast_Cancer_Wisconsin_ML2.ipynb  
     (Machine Learning in a Different Way)
+        * Preprocessing
+        * ML (HyperTunning)
+            * Logistic Regression
+            * Random Forest
+            * Decision Tree
+            * SVC
 * **Iris Species**  
 ( Classify iris plants into three species in this classic dataset )
     * iris.ipynb
