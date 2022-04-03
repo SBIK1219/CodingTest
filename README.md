@@ -48,3 +48,7 @@ Data analysis using Kaggle data set
         * Preprocessing
         * TimeSeries (PACF)
         * ML / DL
+* **Titanic - Machine Learning from Disaster**  
+    * Titanic_EDA.ipynb
+        * PreProcessing
+        * EDA
