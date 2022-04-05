@@ -52,3 +52,12 @@ Data analysis using Kaggle data set
     * Titanic_EDA.ipynb
         * PreProcessing
         * EDA
+    * Titianic_ML.ipynb
+        * Preprocessing
+        * Logistic Regression
+        * Support Vector Machines(Linear and radial)
+        * Random Forest
+        * K-Nearest Neighbours
+        * Naive Bayes
+        * Decision Tree
+        * Logistic Regression
