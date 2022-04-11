@@ -60,4 +60,21 @@ Data analysis using Kaggle data set
         * K-Nearest Neighbours
         * Naive Bayes
         * Decision Tree
+    * Titianic_ML2.ipynb
+        * Preprocessing
         * Logistic Regression
+            * Learning Curve
+            * Validation Curve
+    * Titianic_ML3.ipynb
+        * Preprocessing
+        * EDA
+        * Naive Bayes
+        * Logistic Regression
+        * Decision Tree
+        * K-Nearest Neighbours
+        * Random Forest
+        * Support Vector Classifier
+        * Xtreme Gradient Boosting
+        * Soft Voting Classifier
+        
+        
