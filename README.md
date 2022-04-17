@@ -3,6 +3,9 @@
 Data analysis using Kaggle data set
 
 -----------
+* **Hotel booking demand** 
+(From the paper: hotel booking demand datasets)
+
 * **Breast Cancer Wisconsin (Diagnostic) Data Set**  
 (Predict whether the cancer is benign or malignant)
     * Breast_Cancer_Wisconsin.ipynb
