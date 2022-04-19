@@ -2,9 +2,7 @@
 
 Data analysis using Kaggle data set
 
------------
-* **Hotel booking demand** 
-(From the paper: hotel booking demand datasets)
+*****
 
 * **Breast Cancer Wisconsin (Diagnostic) Data Set**  
 (Predict whether the cancer is benign or malignant)
@@ -24,6 +22,37 @@ Data analysis using Kaggle data set
             * Random Forest
             * Decision Tree
             * SVC
+   
+* **Hotel booking demand**   
+(From the paper: hotel booking demand datasets)
+    * Hotel_Booking.ipynb
+        * Preprocessing
+        * EDA 
+        * ML
+            * Logistic regression
+            * KNeighbors Classifier
+            * Decision Tree Classifier
+            * Random forest Classifier
+            * AdaBoost Classifier
+            * Gradient Boosting Classifier
+            * XGB Classifier
+            * Extra Trees Classifier
+            * Bagging Classifier
+    * Hotel_Booking2.ipynb
+        * Preprocessing
+        * EDA
+        * ML with ROC Curve
+            * Logistic Regression
+            * Gaussian Naive Bayes
+            * Support Vector Classification
+            * Decision Tree Model
+            * Random Forest
+            * Model Tuning for Random Forest
+            * XGBoost
+            * Neural Network
+            * Model Tuning for Neural Network
+
+
 * **Iris Species**  
 ( Classify iris plants into three species in this classic dataset )
     * iris.ipynb
@@ -41,6 +70,7 @@ Data analysis using Kaggle data set
             * XGBoost
             * KNN / KNN Cluster
         * DL
+   
 * **London bike sharing dataset**  
 ( Historical data for bike sharing in London 'Powered by TfL Open Data' )
     * London.ipynb
@@ -51,6 +81,7 @@ Data analysis using Kaggle data set
         * Preprocessing
         * TimeSeries (PACF)
         * ML / DL
+   
 * **Titanic - Machine Learning from Disaster**  
     * Titanic_EDA.ipynb
         * PreProcessing
@@ -79,5 +110,3 @@ Data analysis using Kaggle data set
         * Support Vector Classifier
         * Xtreme Gradient Boosting
         * Soft Voting Classifier
-        
-        
