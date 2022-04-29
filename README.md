@@ -3,6 +3,14 @@
 Data analysis using Kaggle data set
 
 *****
+* **Book Recommendation Dataset**  
+(Build state-of-the-art models for book recommendation system)
+    * Book_Recommendation_1.ipynb
+        * Item-Based Collaborative Filtering
+    * Book_Recommendation_2.ipynb
+        * EDA
+        * Demographic Filtering
+        * Collaborative Filtering
 
 * **Breast Cancer Wisconsin (Diagnostic) Data Set**  
 (Predict whether the cancer is benign or malignant)
@@ -81,7 +89,19 @@ Data analysis using Kaggle data set
         * Preprocessing
         * TimeSeries (PACF)
         * ML / DL
-   
+
+* **The Movies Dataset**  
+(Metadata on over 45,000 movies. 26 million ratings from over 270,000 users.)
+    * Movie_Recommendation_Basic.ipynb
+        * Demographic Filtering
+        * Content Based Filtering
+        * Collaborative Filtering
+    * Movie_Recommendation_2.ipynb
+        * Simple Recommender
+        * Demographic Filtering
+        * Content Based Filtering
+        * Collaborative Filtering
+
 * **Titanic - Machine Learning from Disaster**  
     * Titanic_EDA.ipynb
         * PreProcessing
