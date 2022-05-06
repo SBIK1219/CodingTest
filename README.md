@@ -31,6 +31,13 @@ Data analysis using Kaggle data set
             * Decision Tree
             * SVC
    
+* **Credit Card Fraud Detection**  
+(Anonymized credit card transactions labeled as fraudulent or genuine)
+    * Credit_Fraud_Detection_1.ipynb
+        * Preprocessing
+        * Random UnderSampling and Oversampling
+        * Testing
+
 * **Hotel booking demand**   
 (From the paper: hotel booking demand datasets)
     * Hotel_Booking.ipynb
